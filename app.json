@@ -1,7 +1,7 @@
 {
-  "name": "Node.js Getting Started",
-  "description": "A barebones Node.js app using Express 4",
+  "name": "Autofocus app",
+  "description": "A todo list based on the Autofocus system",
   "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "logo": "http://autofocus.herokuapp.com/node.svg",
   "keywords": ["node", "express", "static"]
 }

@@ -1,16 +1,16 @@
-# node-js-getting-started
+# Autofocus
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+An Autofocus System app to keep track of your todo list. Based on Express 4 [Express 4](http://expressjs.com/).
 
-This application support the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+Currently nothing works.
 
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
 ```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
+$ git clone git@github.com:ea2973929/autofocus.git # or clone your own fork
+$ cd autofocus
 $ npm install
 $ npm start
 ```
@@ -29,6 +29,7 @@ $ heroku open
 
 For more information about using Node.js on Heroku, see these Dev Center articles:
 
+- [Autofocus System](http://markforster.squarespace.com/autofocus-system/)
 - [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 - [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
 - [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
